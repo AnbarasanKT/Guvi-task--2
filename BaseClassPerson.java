@@ -1,5 +1,4 @@
 
-java
 // Base class Person
 class Person {
     // Attributes of Person class
